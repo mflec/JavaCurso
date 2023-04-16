@@ -1,4 +1,4 @@
-package main.siete;
+package main.siete_ocho;
 
 public class DescuentoPorcentajeConTope {
     private Float descuento;

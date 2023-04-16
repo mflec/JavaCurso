@@ -1,4 +1,4 @@
-package main.siete;
+package main.siete_ocho;
 
 public class DescuentoFijo extends Descuento {	
 	public DescuentoFijo(float valor) {

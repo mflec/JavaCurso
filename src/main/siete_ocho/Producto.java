@@ -1,4 +1,4 @@
-package main.siete;
+package main.siete_ocho;
 
 public class Producto {
 	private String nombre;
@@ -22,4 +22,11 @@ public class Producto {
 	public Float getPrecio() {
 		return this.precio;
 	};
+	
+	public void showData() {
+		System.out.println("Nombre: " + nombre);
+		System.out.println("Precio: " + precio);
+		System.out.println("Cantidad: " + cantidad);
+	}
+
 }
